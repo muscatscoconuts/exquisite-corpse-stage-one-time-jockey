@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 *(unique title from stage 1 goes here)* 🔻
+## 🔻 *time jockey* 🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
@@ -29,11 +29,11 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ## Comments for each stage
 
 ### 🟥 Stage 1
-- Name/Alias:
-- Github account:
-- Published webpage for stage 1:
+- Name/Alias:Kike
+- Github account:https://github.com/muscatscoconuts
+- Published webpage for stage 1:https://muscatscoconuts.github.io/exquisite-corpse-stage-one-time-jockey/
 
-*... comments to be added here*
+*When i thought about time i thought of old film reels showing a galloping horse in motion, and as well as seeing the passage of time through destruction and degradation so i decided to combine the two. i kind of went for a 'crazy doomsday timer' aesthetic, and allowed the viewer to 'begin time' through their own interaction with the program. I used a combination of fund images from google for the horses, and photos of photos in a magazine i found on my computer of a collapsing building, and then set up a seconds counter for the doomsday vibe. i was aiming for the feeling of running through time lightheartedly despite the decay of the world as time passes on. *
 
 ### 🟨 Stage 2
 - Name/Alias:
